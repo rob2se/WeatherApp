@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4523d02-758e-4d73-a157-298ce93e5646" name="Default" comment="" />
+    <list default="true" id="b4523d02-758e-4d73-a157-298ce93e5646" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weather.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="weather.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/weather.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -77,6 +79,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -86,6 +100,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -93,11 +110,11 @@
         <option value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
         <option value="$PROJECT_DIR$/src/test/java/StepDefinitions/RunBDDTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageObjects/WeatherSitePageObjects.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/weather.feature" />
         <option value="$PROJECT_DIR$/src/test/java/StepDefinitions/WeatherSiteStepDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/java/Actions/WeatherSiteActions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java" />
       </list>
     </option>
   </component>
@@ -423,7 +440,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006068" side_tool="true" weight="0.32937366" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993932" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993932" weight="0.32937366" />
       <window_info id="Capture Tool" order="2" />
@@ -755,16 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.12.0/selenium-support-3.12.0.jar!/org/openqa/selenium/support/ui/SystemClock.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -943,7 +950,17 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/weather.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

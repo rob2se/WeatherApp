@@ -39,6 +39,6 @@ public class Hooks
                 System.err.println(somePlatformsDontSupportScreenshots.getMessage());
             }
         }
-        //driver.quit();
+        driver.quit();
     }
 }
